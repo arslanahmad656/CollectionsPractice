@@ -10,6 +10,11 @@ namespace CollectionsPractice
     {
         static void Main(string[] args)
         {
+            DiverExemples.Début();
+
+            Console.WriteLine("\n\nTâche achévee");
+            Console.WriteLine("Appuyez sur une touché pour continuer...");
+            Console.ReadKey();
         }
     }
 }

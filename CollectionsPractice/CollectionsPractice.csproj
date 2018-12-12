@@ -42,6 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BoxCollectionExample\Box.cs" />
+    <Compile Include="BoxCollectionExample\BoxCollection.cs" />
+    <Compile Include="BoxCollectionExample\BoxEnumerator.cs" />
+    <Compile Include="DiverExemples.cs" />
+    <Compile Include="InfiniteEnumerable\InfiniteEnumerator.cs" />
+    <Compile Include="InfiniteEnumerable\RandomNumberGenerator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
