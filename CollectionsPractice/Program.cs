@@ -10,7 +10,7 @@ namespace CollectionsPractice
     {
         static void Main(string[] args)
         {
-            DiverExemples.Début();
+            EnumerationExemples.Début();
 
             Console.WriteLine("\n\nTâche achévee");
             Console.WriteLine("Appuyez sur une touché pour continuer...");
